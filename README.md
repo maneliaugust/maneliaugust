@@ -45,11 +45,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maneliaugust&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maneliaugust&layout=compact&theme=tokyonight) |
-| :---: | :---: |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maneliaugust&theme=tokyonight) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maneliaugust&theme=tokyonight) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maneliaugust&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
