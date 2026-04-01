@@ -1,8 +1,16 @@
+<div align="center">
+
 # Hi 👋, I'm Manelisi Ncwaba
 
-🎓 Aspiring Data Analyst | Future Data Scientist | Software Developer Enthusiast 
+🎓 **Aspiring Data Analyst | Future Data Scientist | Software Developer Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manelisi-n-4ba972262)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maneliaugust@gmail.com)
+
 🌍 Based in South Africa 🇿🇦  
-💡 Passionate about solving real-world problems with data & technology  
+💡 Passionate about solving real-world problems with data & technology
+
+</div>
 
 ---
 
@@ -20,34 +28,25 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Python 🐍   
-- SQL  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,vscode,figma,angular,matlab&theme=dark" />
+</div>
 
-### 🌐 Web Development
-- HTML5  
-- CSS3   
-
-### 📊 Data Science & Tools
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- MATLAB / Matplotlib / Seaborn
-- Power BI (learning)  
-
-### 🔧 Tools
-- Git & GitHub  
-- VS Code   
-- Figma (basic) 
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-444876?style=flat&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maneliaugust&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maneliaugust&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneliaugust&theme=tokyonight" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
@@ -60,8 +59,13 @@
 ---
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/manelisi-n-4ba972262
-- 📧 Email: maneliaugust@gmail.com
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manelisi-n-4ba972262)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maneliaugust@gmail.com)
+
+</div>
 
 ---
 
