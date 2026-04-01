@@ -32,14 +32,25 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,vscode,figma,angular,matlab&theme=dark" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-444876?style=flat&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
-</div>
+### 💻 Languages
+- Python 🐍   
+- SQL  
+
+### 🌐 Web Development
+- HTML5  
+- CSS3   
+
+### 📊 Data Science & Tools
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- MATLAB / Matplotlib / Seaborn
+- Power BI (learning)  
+
+### 🔧 Tools
+- Git & GitHub  
+- VS Code   
+- Figma (basic) 
 
 ---
 
