@@ -37,8 +37,7 @@
 
 ### 🔧 Tools
 - Git & GitHub  
-- VS Code  
-- Figma  
+- VS Code   
 
 ---
 
