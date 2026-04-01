@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manelisi Ncwaba
 
-🎓 Aspiring Data Analyst | Future Data Scientist | Software Developer  
+🎓 Aspiring Data Analyst | Future Data Scientist | Software Developer Enthusiast 
 🌍 Based in South Africa 🇿🇦  
 💡 Passionate about solving real-world problems with data & technology  
 
@@ -39,13 +39,14 @@
 - Git & GitHub  
 - VS Code   
 - Figma (basic) 
+
 ---
 
 ## 📊 GitHub Stats
 
-![Manelisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Manelisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=maneliaugust&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maneliaugust&layout=compact&theme=tokyonight)
 
 ---
 
