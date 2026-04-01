@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,vscode,figma,angular,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,html,css,git,vscode,figma,matlab&theme=dark" />
 </div>
 
 ### 💻 Languages
