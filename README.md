@@ -38,7 +38,7 @@
 ### 🔧 Tools
 - Git & GitHub  
 - VS Code   
-
+- Figma (basic) 
 ---
 
 ## 📊 GitHub Stats
